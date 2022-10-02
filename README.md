@@ -7,7 +7,7 @@ A technology enthusiast who loves gaming 🎮, coding 💻 and learning 📚.
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorvaske6&layout=compact&langs_count=7&theme=react"/>
 </div>
 
-### Contact
+## Contact
 <div> 
  <a href="https://instagram.com/vitorvaske/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="mailto:vitorvaske6@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
