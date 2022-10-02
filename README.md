@@ -24,7 +24,7 @@ A technology enthusiast who loves gaming 🎮, coding 💻 and learning 📚.
 
 | Previous Job | Learned for Curiosity or University Projects | 
 |---------------|----------------------------------------------|
-| Those languages and tools were used mostly because of [Alfresco](https://www.alfresco.com/) open source development. | Languanges and tools that I used at previous jobs and learned for curiosity or university projects. | 
+| Those languages and tools were used mostly because of [Alfresco](https://www.alfresco.com/) open source development. | Languanges and tools that I learned for curiosity or university projects. | 
 | <code><img alt="vaske-javascript" height="30" width="40" src="./assets/javascript.svg"></code> Medium usage of JavaScript. | <code><img alt="vaske-figma" height="30" width="40" src="./assets/figma.svg"></code> Advanced usage of Figma.
 | <code><img alt="vaske-maven" height="30" width="40" src="./assets/maven.svg"></code> Medium usage of Apache Maven. | <code><img alt="vaske-javascript" height="30" width="40" src="./assets/javascript.svg"></code> Advanced usage of JavaScript.
 | <code><img alt="vaske-tomcat" height="30" width="40" src="./assets/tomcat.svg"></code> Medium usage of Apache Tomcat. | <code><img alt="vaske-nodejs" height="30" width="40" src="./assets/nodejs.svg"></code> Advanced usage of Node.js.
