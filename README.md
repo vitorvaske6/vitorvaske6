@@ -12,7 +12,7 @@ A technology enthusiast who loves gaming 🎮, coding 💻 and learning 📚.
 
 | Daily | Side Project | 
 |-------|--------------|
-| Languanges and tools that I use at the job daily or at a side project. | Languanges and tools that I used at previous jobs and learned for curiosity or university projects. | 
+| Languanges and tools that I use at the job daily. | Languanges and tools that I use at a side project. | 
 | <code><img alt="vaske-powerbi-exp" height="30" width="40" src="./assets/powerbi.svg"></code> Advanced usage of Power BI. | <code><img alt="vaske-typescript-exp" height="30" width="40" src="./assets/typescript.svg"></code> Advanced usage of Typescript. |
 | <code><img alt="vaske-sqlserver-exp" height="30" width="40" src="./assets/sqlserver.svg"></code> Advanced usage of Microsoft SQL Server. | <code><img alt="vaske-react-exp" height="30" width="40" src="./assets/react.svg"></code> Advanced usage of React. |
 | <code><img alt="vaske-csharp-exp" height="30" width="40" src="./assets/csharp.svg"></code> Medium usage of C#. |  <code><img alt="vaske-mongodb-exp" height="30" width="40" src="./assets/mongodb.svg"></code> Advanced usage of MongoDB.| 
