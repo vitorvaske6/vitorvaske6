@@ -27,8 +27,8 @@ A technology enthusiast who loves gaming 🎮, coding 💻 and learning 📚.
 | <code><img alt="vaske-powerbi-exp" height="30" width="40" src="./assets/powerbi.svg"></code> Advanced usage of Power BI. | <code><img alt="vaske-typescript-exp" height="30" width="40" src="./assets/typescript.svg"></code> Advanced usage of Typescript. |
 | <code><img alt="vaske-sqlserver-exp" height="30" width="40" src="./assets/sqlserver.svg"></code> Advanced usage of Microsoft SQL Server. | <code><img alt="vaske-react-exp" height="30" width="40" src="./assets/react.svg"></code> Advanced usage of React. |
 | <code><img alt="vaske-csharp-exp" height="30" width="40" src="./assets/csharp.svg"></code> Medium usage of C#. |  <code><img alt="vaske-mongodb-exp" height="30" width="40" src="./assets/mongodb.svg"></code> Advanced usage of MongoDB.| 
-| <code><img alt="vaske-python-exp" height="30" width="40" src="./assets/python.svg"></code> Medium usage of Python. | <code><img alt="vaske-tailwind-exp" height="30" width="40" src="./assets/tailwind.svg"></code> Advanced usage of Tailwind. |
-| <code><img alt="vaske-figma-exp" height="30" width="40" src="./assets/figma.svg"></code> Basic usage of Figma. | |
+| <code><img alt="vaske-python-exp" height="30" width="40" src="./assets/python.svg"></code> Advanced usage of Python. | <code><img alt="vaske-tailwind-exp" height="30" width="40" src="./assets/tailwind.svg"></code> Advanced usage of Tailwind. |
+| <code><img alt="vaske-figma-exp" height="30" width="40" src="./assets/figma.svg"></code> Medium usage of Figma. | |
 
 
 ### Previous Experiences
