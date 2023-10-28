@@ -9,13 +9,13 @@ A technology enthusiast who loves gaming 🎮, coding 💻 and learning 📚.
 
 ## My Socials
 
-||| 
-|--------------------|-------------------------------------| 
-|||
+|| 
+|---|
+||
 | <code><img alt="vaske-nextjs-exp" height="30" width="40" src="./assets/vaske.svg"></code>&nbsp;&nbsp;[Portifolio](https://vitor-vaske.com.br/) |  
 | <code><img alt="vaske-nextjs-exp" height="30" width="40" src="./assets/linkedin.svg"></code>&nbsp;&nbsp;[Linkedin](https://www.linkedin.com/in/vitor-hugo-vasconcelos/) |  
-| <code><img alt="vaske-nextjs-exp" height="30" width="40" src="./assets/gmail.svg"></code>&nbsp;&nbsp;[Gmail](mailto:vitorvaske6@gmail.com) |
-|  |  |
+| <code><img alt="vaske-nextjs-exp" height="30" width="40" src="./assets/gmail.svg"></code>&nbsp;&nbsp;[Gmail](mailto:vitorvaske6@gmail.com) 
+|  |
 
 ## Experiences
 ### Current Job
