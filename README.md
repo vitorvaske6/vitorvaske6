@@ -8,27 +8,17 @@ A technology enthusiast who loves gaming 🎮, coding 💻 and learning 📚.
 </div>
 
 ## My Socials
-<div style="display: grid; gap:10px; grid-columns:1"> 
-    <a href="https://vitor-vaske.com.br/" target="_blank" style="display:flex; gap:8px; place-items:middle">
-      <img height="30" width="40" src="./assets/vaske.svg">
-      <span>Portifolio</span>
-    </a>
-    <a href="https://www.linkedin.com/in/vitor-hugo-vasconcelos/" style="display:flex; gap:8px; place-items:middle">
-      <img height="30" width="40" src="./assets/linkedin.svg">
-      <span>Linkedin</span>
-    </a>
-    <a href="mailto:vitorvaske6@gmail.com" style="display:flex; gap:8px; place-items:middle">
-      <img height="30" width="40" src="./assets/gmail.svg">
-      <span>Gmail</span>
-    </a>
-</div>
 
+|--------------------|  
+| <code><a href="https://vitor-vaske.com.br/" target="_blank"><img alt="vaske-nextjs-exp" height="30" width="40" src="./assets/vaske.svg"></a></code>&nbsp;&nbsp;Portifolio |  
+| <code><a href="https://www.linkedin.com/in/vitor-hugo-vasconcelos/" target="_blank"><img alt="vaske-nextjs-exp" height="30" width="40" src="./assets/linkedin.svg"></a></code>&nbsp;&nbsp;Linkedin |  
+| <code><a href="mailto:vitorvaske6@gmail.com" target="_blank"><img alt="vaske-nextjs-exp" height="30" width="40" src="./assets/gmail.svg"></a></code>&nbsp;&nbsp;Gmail |
 
 ## Experiences
 ### Current Job
 
 | FullStack project. | Integrations & Automations Project. | 
-|-------|--------------| 
+|--------------------|-------------------------------------| 
 | Deployed as [My Insights](https://www.myinsights.com.br/)  | Modified version of [Integratis](https://github.com/vitorvaske6/integratis/)  |
 | <code><img alt="vaske-nextjs-exp" height="30" width="40" src="./assets/nextjs.svg"></code>&nbsp;&nbsp;Next.js | <code><img alt="vaske-nodejs-exp" height="30" width="40" src="./assets/nodejs.svg"></code>&nbsp;&nbsp;Node.js |
 | <code><img alt="vaske-typescript-exp" height="30" width="40" src="./assets/typescript.svg"></code>&nbsp;&nbsp;TypeScript | <code><img alt="vaske-typescript-exp" height="30" width="40" src="./assets/typescript.svg"></code>&nbsp;&nbsp;Typescript |
