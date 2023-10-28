@@ -9,10 +9,13 @@ A technology enthusiast who loves gaming 🎮, coding 💻 and learning 📚.
 
 ## My Socials
 
-|--------------------|  
-| <code><a href="https://vitor-vaske.com.br/" target="_blank"><img alt="vaske-nextjs-exp" height="30" width="40" src="./assets/vaske.svg"></a></code>&nbsp;&nbsp;Portifolio |  
-| <code><a href="https://www.linkedin.com/in/vitor-hugo-vasconcelos/" target="_blank"><img alt="vaske-nextjs-exp" height="30" width="40" src="./assets/linkedin.svg"></a></code>&nbsp;&nbsp;Linkedin |  
-| <code><a href="mailto:vitorvaske6@gmail.com" target="_blank"><img alt="vaske-nextjs-exp" height="30" width="40" src="./assets/gmail.svg"></a></code>&nbsp;&nbsp;Gmail |
+||| 
+|--------------------|-------------------------------------| 
+|||
+| <code><img alt="vaske-nextjs-exp" height="30" width="40" src="./assets/vaske.svg"></code>&nbsp;&nbsp;[Portifolio](https://vitor-vaske.com.br/) |  
+| <code><img alt="vaske-nextjs-exp" height="30" width="40" src="./assets/linkedin.svg"></code>&nbsp;&nbsp;[Linkedin](https://www.linkedin.com/in/vitor-hugo-vasconcelos/) |  
+| <code><img alt="vaske-nextjs-exp" height="30" width="40" src="./assets/gmail.svg"></code>&nbsp;&nbsp;[Gmail](mailto:vitorvaske6@gmail.com) |
+|  |  |
 
 ## Experiences
 ### Current Job
