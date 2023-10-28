@@ -8,7 +8,7 @@ A technology enthusiast who loves gaming 🎮, coding 💻 and learning 📚.
 </div>
 
 ## My Socials
-<div style="display: grid; gap:10px"> 
+<div style="display: grid; gap:10px; grid-columns:1"> 
     <a href="https://vitor-vaske.com.br/" target="_blank" style="display:flex; gap:8px; place-items:middle">
       <img height="30" width="40" src="./assets/vaske.svg">
       <span>Portifolio</span>
@@ -21,7 +21,7 @@ A technology enthusiast who loves gaming 🎮, coding 💻 and learning 📚.
       <img height="30" width="40" src="./assets/gmail.svg">
       <span>Gmail</span>
     </a>
-</ul>
+</div>
 
 
 ## Experiences
