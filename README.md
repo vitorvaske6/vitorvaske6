@@ -8,25 +8,19 @@ A technology enthusiast who loves gaming 🎮, coding 💻 and learning 📚.
 </div>
 
 ## My Socials
-<ul style="list-style-type: none;"> 
-  <li style="margin-bottom:10px">
+<div style="display: grid; gap:10px"> 
     <a href="https://vitor-vaske.com.br/" target="_blank" style="display:flex; gap:8px; place-items:middle">
       <img height="30" width="40" src="./assets/vaske.svg">
       <span>Portifolio</span>
     </a>
-  </li>
-  <li style="margin-bottom:10px">
     <a href="https://www.linkedin.com/in/vitor-hugo-vasconcelos/" style="display:flex; gap:8px; place-items:middle">
       <img height="30" width="40" src="./assets/linkedin.svg">
       <span>Linkedin</span>
     </a>
-  </li>
-  <li style="margin-bottom:10px">
     <a href="mailto:vitorvaske6@gmail.com" style="display:flex; gap:8px; place-items:middle">
       <img height="30" width="40" src="./assets/gmail.svg">
       <span>Gmail</span>
     </a>
-  </li>
 </ul>
 
 
